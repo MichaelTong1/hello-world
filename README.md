@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I currently go to University of Texas at Arlington. 
